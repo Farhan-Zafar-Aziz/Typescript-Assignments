@@ -1,0 +1,10 @@
+//Question 26
+
+let alein_Color = "Green";//if aleincolor is yellow asnr print will be (player earned 10 points)
+
+if (alein_Color == "Green"){
+    console.log("player earned 5 points")
+}
+else  {
+    console.log("player earned 10 points")
+}
